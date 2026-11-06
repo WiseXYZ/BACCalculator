@@ -1,0 +1,10 @@
+{
+  "appId": "app.bloodalc.personal",
+  "appName": "Blood·alc",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": false,
+    "webContentsDebuggingEnabled": false
+  }
+}
